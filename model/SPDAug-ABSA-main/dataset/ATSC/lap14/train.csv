@@ -1,0 +1,30 @@
+id,text,aspect,sentiment
+2339_0,I charge it at night and skip taking the cord with me because of the good battery life.,cord,neutral
+2339_1,I charge it at night and skip taking the cord with me because of the good battery life.,battery life,positive
+1316_0,"The tech guy then said the service center does not do 1-to-1 exchange and I have to direct my concern to the ""sales"" team, which is the retail shop which I bought my netbook from.",service center,negative
+1316_1,"The tech guy then said the service center does not do 1-to-1 exchange and I have to direct my concern to the ""sales"" team, which is the retail shop which I bought my netbook from.","""sales"" team",negative
+1316_2,"The tech guy then said the service center does not do 1-to-1 exchange and I have to direct my concern to the ""sales"" team, which is the retail shop which I bought my netbook from.",tech guy,neutral
+2005_0,"it is of high quality, has a killer GUI, is extremely stable, is highly expandable, is bundled with lots of very good applications, is easy to use, and is absolutely gorgeous.",quality,positive
+2005_1,"it is of high quality, has a killer GUI, is extremely stable, is highly expandable, is bundled with lots of very good applications, is easy to use, and is absolutely gorgeous.",GUI,positive
+2005_2,"it is of high quality, has a killer GUI, is extremely stable, is highly expandable, is bundled with lots of very good applications, is easy to use, and is absolutely gorgeous.",applications,positive
+2005_3,"it is of high quality, has a killer GUI, is extremely stable, is highly expandable, is bundled with lots of very good applications, is easy to use, and is absolutely gorgeous.",use,positive
+2789_0,Easy to start up and does not overheat as much as other laptops.,start up,positive
+76_0,"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",features,positive
+76_1,"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",iChat,positive
+76_2,"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",Photobooth,positive
+76_3,"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",garage band,positive
+80_0,Great laptop that offers many great features!,features,positive
+917_0,"?One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does.",GUI,negative
+917_1,"?One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does.",screen,negative
+917_2,"?One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does.",power light,neutral
+917_3,"?One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does.",hard drive light,negative
+1630_0,I took it back for an Asus and same thing- blue screen which required me to remove the battery to reset.,battery,neutral
+38_0,"In the shop, these MacBooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it, get it home, break the seal and use it (very clever con).",rubber enclosure,positive
+38_1,"In the shop, these MacBooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it, get it home, break the seal and use it (very clever con).",edge,negative
+337_0,"However, the multi-touch gestures and large tracking area make having an external mouse unnecessary (unless you're gaming).",multi-touch gestures,positive
+337_1,"However, the multi-touch gestures and large tracking area make having an external mouse unnecessary (unless you're gaming).",tracking area,positive
+337_2,"However, the multi-touch gestures and large tracking area make having an external mouse unnecessary (unless you're gaming).",external mouse,neutral
+337_3,"However, the multi-touch gestures and large tracking area make having an external mouse unnecessary (unless you're gaming).",gaming,neutral
+2568_0,I love the way the entire suite of software works together.,suite of software,positive
+295_0,The speed is incredible and I am more than satisfied.,speed,positive
+2759_0,This laptop meets every expectation and Windows 7 is great!,Windows 7,positive

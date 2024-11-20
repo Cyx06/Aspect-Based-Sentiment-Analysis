@@ -1,0 +1,30 @@
+id,text,aspect,sentiment
+892:1_0,"Boot time is super fast, around anywhere from 35 seconds to 1 minute.",Boot time,positive
+1144:1_0,tech support would not fix the problem unless I bought your plan for $150 plus.,tech support,negative
+359:1_0,Set up was easy.,Set up,positive
+562:1_0,Did not enjoy the new Windows 8 and touchscreen functions.,Windows 8,negative
+562:1_1,Did not enjoy the new Windows 8 and touchscreen functions.,touchscreen functions,negative
+958:1_0,"Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",internal speakers,negative
+958:1_1,"Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",price tag,positive
+958:1_2,"Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",click pads,negative
+282:9_0,No installation disk (DVD) is included.,installation disk (DVD),neutral
+819:1_0,"It's fast, light, and simple to use.",use,positive
+130:1_0,"Works well, and I am extremely happy to be back to an apple OS.",Works,positive
+130:1_1,"Works well, and I am extremely happy to be back to an apple OS.",apple OS,positive
+593:1_0,Sure it's not light and slim but the features make up for it 100%.,features,positive
+996:1_0,"I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",log on,positive
+996:1_1,"I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",WiFi connection,positive
+996:1_2,"I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",battery life,positive
+314:21_0,The Apple engineers have not yet discovered the delete key.,delete key,negative
+147:5_0,Made interneting (part of my business) very difficult to maintain.,interneting,negative
+3:1_0,"Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.",priced,positive
+663:1_0,"Super light, super sexy and everything just works.",works,positive
+373:1_0,"Only problem that I had was that the track pad was not very good for me, I only had a problem once or twice with it, But probably my computer was a bit defective.",track pad,negative
+759:1_0,It is super fast and has outstanding graphics.,graphics,positive
+326:1_0,But the mountain lion is just too slow.,mountain lion,negative
+488:1_0,Strong build though which really adds to its durability.,durability,positive
+488:1_1,Strong build though which really adds to its durability.,build,positive
+847:1_0,The battery life is excellent- 6-7 hours without charging.,battery life,positive
+561:1_0,I've had my computer for 2 weeks already and it works perfectly.,works,positive
+1062:1_0,And I may be the only one but I am really liking Windows 8.,Windows 8,positive
+792:2_0,The baterry is very longer.,baterry,positive
